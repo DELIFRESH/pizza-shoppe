@@ -1,0 +1,21 @@
+body {
+  background-color: red;
+}
+h1{
+  
+  color: white;
+  font-size:24px;
+  font-family: Arial, Helvetica, Sans-Serif;
+}
+.header{
+background-color: black;
+padding-left:20px;
+
+
+
+}
+.footer{
+background-color: blue;
+
+}
+
